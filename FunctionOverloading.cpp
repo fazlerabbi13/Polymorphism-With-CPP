@@ -5,10 +5,10 @@ class Addition {
 public:
     
     // Function to add two integers
-    void add(int a, int b) {
-        cout << "Integer Sum = " << a + b
-        << endl;
-    }
+    // void add(int a, int b) {
+    //     cout << "Integer Sum = " << a + b
+    //     << endl;
+    // }
     
     // Function to add two floating point values
     void add(double a, double b) {
