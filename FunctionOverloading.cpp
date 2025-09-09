@@ -11,10 +11,10 @@ public:
     }
     
     // Function to add two floating point values
-    // void add(double a, double b) {
-    //     cout << "Float Sum = " << a + b
-    //     << endl ;
-    // }
+    void add(double a, double b) {
+        cout << "Float Sum = " << a + b
+        << endl ;
+    }
 };
 
 int main() {
