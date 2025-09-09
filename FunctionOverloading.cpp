@@ -24,7 +24,7 @@ int main() {
     sum.add(10, 2);
 
     // add() called with double value
-    // sum.add(5.3, 6.2);
+    sum.add(5.3, 6.2);
 
     return 0;
 }
