@@ -8,9 +8,9 @@ public:
     }
 };
 
-// class Dog : public Animal {
-// public:
-//     void sound() override {  // Correct override
-//         cout << "Dog barks\n";
-//     }
-// };
+class Dog : public Animal {
+public:
+    void sound() override {  // Correct override
+        cout << "Dog barks\n";
+    }
+};
